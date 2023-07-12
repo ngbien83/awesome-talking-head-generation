@@ -161,9 +161,9 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 5. <span id="a23005">[EmoGen] [Emotionally Enhanced Talking Face Generation](https://arxiv.org/pdf/2303.11548.pdf), `Arxiv 2023`. [[Code](https://github.com/sahilg06/EmoGen)] 
 
-6. <span id="a23006">[TalkLip] [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://arxiv.org/pdf/2303.17480.pdf), `CVPR 2023`. [[Code](https://github.com/Sxjdwang/TalkLip)] 
+6. <span id="a23006">[TalkLip] [Seeing What You Said: Talking Face Generation Guided by a Lip Reading Expert](https://arxiv.org/pdf/2303.17480.pdf), `CVPR 2023`. [[Code](https://github.com/Sxjdwang/TalkLip)] . There are problems with high resolution videos, long videos due to CUDA memory problem
 
-7. <span id="a23007">[StyleSync] [StyleSync: High-Fidelity Generalized and Personalized Lip Sync in Style-based Generator](https://arxiv.org/pdf/2305.05445.pdf), `CVPR 2023`. [[Project](https://hangz-nju-cuhk.github.io/projects/StyleSync)] [[Project](https://github.com/guanjz20/StyleSync)].
+7. <span id="a23007">[StyleSync] [StyleSync: High-Fidelity Generalized and Personalized Lip Sync in Style-based Generator](https://arxiv.org/pdf/2305.05445.pdf), `CVPR 2023`. [[Project](https://hangz-nju-cuhk.github.io/projects/StyleSync)] [[Project](https://github.com/guanjz20/StyleSync)]. The demo videos are great, but the team do not release the code
 
 
 ---
