@@ -157,7 +157,7 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 3. <span id="a23003">[READ] [READ Avatars: Realistic Emotion-controllable Audio Driven Avatars](READ Avatars: Realistic Emotion-controllable Audio Driven Avatars), [[Demo](https://youtu.be/QSyMl3vV0pA)], `Arxiv 2023`. 
 
-4. <span id="a23004">[DAE-Talker] [DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder](https://arxiv.org/pdf/2303.17550.pdf), [[Project]([https://github.com/guanjz20/StyleSync](https://daetalker.github.io/))] `Arxiv 2023`. :fire:Diffusion:fire: **Demo is cool, Waiting for Code**
+4. <span id="a23004">[DAE-Talker] [DAE-Talker: High Fidelity Speech-Driven Talking Face Generation with Diffusion Autoencoder](https://arxiv.org/pdf/2303.17550.pdf), (https://github.com/guanjz20/StyleSync), (https://daetalker.github.io/), `Arxiv 2023`. :fire:Diffusion:fire: **Demo is cool, Waiting for Code**
 
 5. <span id="a23005">[EmoGen] [Emotionally Enhanced Talking Face Generation](https://arxiv.org/pdf/2303.11548.pdf), `Arxiv 2023`. [[Code](https://github.com/sahilg06/EmoGen)] **Not tested yet but Charlie Chaplin Demo Video So Bad**
 
