@@ -211,3 +211,6 @@ for Video Avatars](https://arxiv.org/pdf/2210.05825.pdf), `NeurIPS 2022`. [[Proj
 
 [![Star History Chart](https://api.star-history.com/svg?repos=harlanhong/awesome-talking-head-generation&type=Date)](https://star-history.com/#harlanhong/awesome-talking-head-generation&Date)
 
+Waiting:
+https://github.com/mdv3101/AVFR-Gan/
+
